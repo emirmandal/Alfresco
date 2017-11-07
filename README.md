@@ -52,3 +52,7 @@ chmod +x bitnami-alfresco-201707-1-linux-x64-installer.run
  
  Select a folder [/opt/alfresco-201707-1]:
 ```
+Manual start
+```sh
+/opt/alfresco-201707-1/ctlscript.sh start
+```
